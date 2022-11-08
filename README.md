@@ -1,5 +1,6 @@
 ### ¡Bienvenido a mi Perfil! 👋
 
+Te invito a ver mi perfil de Linkedin:
 [Linkedin](https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/)
 
 <!--
