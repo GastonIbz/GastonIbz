@@ -1,5 +1,7 @@
 ### ¡Bienvenido a mi Perfil! 👋
 
+[Linkedin](https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/)
+
 <!--
 **GastonIbz/GastonIbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
