@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center" width="200" src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD"/>
+ <img align="center" width="400" src="https://i.pinimg.com/originals/0d/45/4e/0d454efdcfe616f5751612ec01aa22ee.gif"/>
   <h1 align="center">Buenas <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, soy Gastón Ibañez - Bienvenido a mi perfil</h1>
 </div>
 
