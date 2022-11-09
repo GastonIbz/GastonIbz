@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1 align="center"> Bienvenido a mi perfil  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
-    <img align="center" width="380" src="https://i.pinimg.com/originals/de/55/4c/de554c6e09a91b337aefba7c82d37533.gif"/>
+    <img align="center" width="360" src="https://i.pinimg.com/originals/de/55/4c/de554c6e09a91b337aefba7c82d37533.gif"/>
 </div>
 
 
