@@ -5,7 +5,7 @@
   <h1 align="center"> Bienvenido a mi perfil  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 </div>
 
-<img align="center" width="200" src="https://i.pinimg.com/originals/8a/61/ab/8a61abcf8effc6010b0094f50c1fc912.gif"/>
+<img align="center" width="200" src="https://i.pinimg.com/originals/4b/5d/ab/4b5dab2a1e935457097105e8d664f152.gif"/>
 <table align="right">
 
 [           Linkedin](https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/)
