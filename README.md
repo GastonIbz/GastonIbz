@@ -2,7 +2,7 @@
 <div align="center">
 
 
-  <h1 align="center">Buenas <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, soy Gastón Ibañez - Bienvenido a mi perfil</h1>
+  <h1 align="center"> <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, soy Bienvenido a mi perfil</h1>
 </div>
 
 
