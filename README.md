@@ -6,6 +6,7 @@
 </div>
 
 <img align="center" width="200" src="https://i.pinimg.com/originals/de/55/4c/de554c6e09a91b337aefba7c82d37533.gif"/>
+<img align="center" width="200" src="https://i.pinimg.com/originals/6e/20/37/6e203721c61ad2dad64a530c3cd4263e.gif"/>
 <table align="right">
 
 [           Linkedin](https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/)
