@@ -8,9 +8,9 @@
 
 
 <table align="right">
-
-[           Linkedin](https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/)
-
+<div align="center">
+[Linkedin](https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/)
+</div>
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
   <div style="display: inline_block" align="center"><br>
