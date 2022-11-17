@@ -26,8 +26,8 @@
 <hr>
 
   📫 | Contacto:
-- Linkedin: https://www.linkedin.com/in/ignaciojsoler
-- Email: ignaciojsoler@gmail.com
+- Linkedin: https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/
+- Email: Gastonibanezcv@gmail.com
 
   
 </div>
