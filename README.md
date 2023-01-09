@@ -7,7 +7,7 @@
 
 <table align="right">
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
   
 <hr>
