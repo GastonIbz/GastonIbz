@@ -28,6 +28,7 @@
   📫 | Contacto:
 - Linkedin: https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/
 - Email: Gastonibanezcv@gmail.com
+- Portafolio: https://gastonibanez.netlify.app/
 
   
 </div>
