@@ -6,9 +6,6 @@
 </div>
 
 <table align="right">
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-  
   
 <hr>
 🧠 | Mis habilidades:
@@ -30,6 +27,6 @@
 - Email: Gastonibanezcv@gmail.com
 - Portafolio: https://gastonibanez.netlify.app/
 
-  
+  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
 
