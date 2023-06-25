@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1 align="center"> Bienvenido a mi perfil   
-    <img align="center" width="330" src="https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49"/>
+    <img align="center" width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN0ZzFkN3djNWZrYm13dHgxcGdvdjI0ZHJkN2RzYmo3bW4wZjNxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif"/>
 </div>
 
 <table align="right">
