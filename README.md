@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1 align="center"> Bienvenido a mi perfil   <img src="https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49" height="30" width="30"></h1>
+  <h1 align="center"> Bienvenido a mi perfil   <img src="" height="30" width="30"></h1>
     <img align="center" width="330" src="https://i.pinimg.com/originals/de/55/4c/de554c6e09a91b337aefba7c82d37533.gif"/>
 </div>
 
