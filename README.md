@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1 align="center"> Bienvenido a mi perfil   
-    <img align="center" width="330" src="[https://i.pinimg.com/originals/de/55/4c/de554c6e09a91b337aefba7c82d37533.gif](https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49)"/>
+    <img align="center" width="330" src="https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49"/>
 </div>
 
 <table align="right">
