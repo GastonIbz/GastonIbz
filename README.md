@@ -44,7 +44,7 @@ Podés encontrar las últimas novedades sobre mis proyectos, las tecnologías qu
 
 [Deploy](https://gastonibanez.netlify.app/) | [Repositorio](https://github.com/GastonIbz/Portafolio-GI)
 
-<p align="center"><img src="https://imgur.com/a/rb4NPhD" margin="auto"></p>
+<p align="center"><img src="[https://imgur.com/a/rb4NPhD](https://imgur.com/a/rb4NPhD)" margin="auto"></p>
 
 
   ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
