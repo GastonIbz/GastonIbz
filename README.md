@@ -33,9 +33,7 @@
 - Linkedin: https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/
 - Email: Gastonibanezcv@gmail.com
 
-- 😄 | Mi Landing Page
-  
-Podés encontrar las últimas novedades sobre mis proyectos, las tecnologías que utilizo y los servicios que ofrezco en mi landing page 🚀 
+- 😄 | Mi Portafolio en línea 
 
 [Deploy](https://gastonibanez.netlify.app/) | [Repositorio](https://github.com/GastonIbz/Portafolio-GI)
 
