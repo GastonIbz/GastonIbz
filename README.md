@@ -35,7 +35,7 @@
 
 😄 | Mi Portafolio en línea 
 
-[Deploy](https://gastonibanez.netlify.app/) | [Repositorio](https://github.com/GastonIbz/Portafolio-GI)
+[Deploy](https://gastonibz.netlify.app/) | [Repositorio](https://github.com/GastonIbz/Portafolio-GI)
 
 <p align="center"><img src="[https://imgur.com/a/rb4NPhD](https://imgur.com/a/rb4NPhD)" margin="auto"></p>
 
