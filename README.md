@@ -33,7 +33,7 @@
 - Linkedin: https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/
 - Email: Gastonibanezcv@gmail.com
 
-- 😄 | Mi Portafolio en línea 
+  😄 | Mi Portafolio en línea 
 
 [Deploy](https://gastonibanez.netlify.app/) | [Repositorio](https://github.com/GastonIbz/Portafolio-GI)
 
