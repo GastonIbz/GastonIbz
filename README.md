@@ -4,7 +4,7 @@
   <h1 align="center"> Bienvenido a mi perfil 🌳
     <br>
      <br>
-       <img align="center" width="330" src="https://tenor.com/es/view/spin-chair-spin-spinning-chair-foldable-chair-gif-27635879"/>
+       <img align="center" width="330" src=""/>
 </div>
 
 <table align="right">
