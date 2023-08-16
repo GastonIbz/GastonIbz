@@ -1,10 +1,10 @@
-
+![image](https://github.com/GastonIbz/GastonIbz/assets/104403890/9b83d976-62dd-4146-844b-e6af02837833)
 <div align="center">
 
   <h1 align="center"> Bienvenido a mi perfil 🌳
     <br>
      <br>
-       <img align="center" width="330" src="https://media4.giphy.com/media/xT0GqetcAXDkrGkire/giphy.gif?cid=ecf05e472nntq7m93qcvojkd6zz5ezxkhkzm420od7lww1od&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+       <img align="center" width="330" src="https://tenor.com/es/view/spin-chair-spin-spinning-chair-foldable-chair-gif-27635879"/>
 </div>
 
 <table align="right">
