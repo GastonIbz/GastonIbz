@@ -25,17 +25,5 @@
 
 <hr>
 
-📫 | Contacto:
-- Linkedin: https://www.linkedin.com/in/gastoniba%C3%B1ezdeveloper/
-- Email: Gastonibanezcv@gmail.com
-
-😄 | Mi Portafolio en línea 
-
-[Deploy](https://gastonibz.netlify.app/) | [Repositorio](https://github.com/GastonIbz/Portafolio-GI)
-
-<p align="center"><img src="[https://imgur.com/a/rb4NPhD](https://imgur.com/a/rb4NPhD)" margin="auto"></p>
-
-
-  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
 
