@@ -1,4 +1,4 @@
-![image](https://github.com/GastonIbz/GastonIbz/assets/104403890/9b83d976-62dd-4146-844b-e6af02837833)
+
 <div align="center">
 
   <h1 align="center"> Bienvenido a mi perfil 🌳
