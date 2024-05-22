@@ -1,6 +1,6 @@
 # ¡Hola, soy Gastón Ibañez!
 
-Desarrollador entusiasta del Desarrollo Front-End y Diseño UX/UI. <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/arargentinaflag_111670.png" alt="Argentina" width="16" /> <br/>
+Entusiasta del Desarrollo Front-End y Diseño UX/UI. <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/arargentinaflag_111670.png" alt="Argentina" width="16" /> <br/>
 
 ## Habilidades
 
