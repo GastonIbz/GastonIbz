@@ -9,7 +9,7 @@ Entusiasta del Desarrollo Front-End y Diseño UX/UI. <img src="https://cdn.icon-
 - 🗄️ **Bases de Datos:** SQL Server, MySQL, Firebase. (Próximamente MongoDB).
 - 🌐 **Sistemas de Gestión de Contenidos:** WordPress, Webflow, Active Campaign.
 - 🎨 **Herramientas de Diseño:** Figma, Photoshop, Illustrator.
-- 🔄 **Control de Versiones:** Git.
+- 🔄 **Control de Versiones:** Git & GIT-HUB.
 
 ## Sobre Mí
 
