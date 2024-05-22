@@ -36,6 +36,7 @@
 - **Github**
 
 ### 🚀 Utilización de metodologías ágiles
+- **SCRUM**
 - **Trello**
 - **Notion**
 
