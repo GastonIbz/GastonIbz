@@ -12,9 +12,10 @@
 - **JavaScript**, **React**, **Next.js**, **Vite**
 
 ### 🔨 Desarrollo Back-end
+- **Node.js**
 - **Programación Orientada a Objetos (POO)**
 - **C#**, **.NET Framework**
-- *Próximamente*: **Node.js**, **Express.js**
+- *Próximamente*: **Express.js**
 
 ### 💾 Bases de Datos
 - **SQL Server**
