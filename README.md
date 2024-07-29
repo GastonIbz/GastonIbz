@@ -45,13 +45,11 @@
 
 ## 📌 Sobre Mí
 
-Estoy  interesado en combinar el desarrollo técnico con un diseño UX/UI eficaz, siempre en la búsqueda de crear experiencias de usuario estéticas y funcionales. Mi enfoque en la eficiencia me permite asegurar que cada proyecto cumpla con sus expectativas.
+Desarrollador Web con experiencia en React.js, JavaScript, TypeScript, Node.js y MongoDB. Busco integrar el desarrollo con el diseño de interfaces para mejorar la experiencia del usuario, utilizando Illustrator y Figma.
 
 ---
 
 ## 📬 Contacto
-
-No dudes en contactarme:
 
 - 📧 [Envíame un correo](mailto:gastonibanezcv@gmail.com)
 - 🔗 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/gastonibanezdev/)
