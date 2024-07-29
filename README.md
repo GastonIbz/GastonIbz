@@ -20,7 +20,7 @@
 ### 💾 Bases de Datos
 - **SQL Server**
 - **Firebase**
-- *Próximamente*: **MongoDB**
+- **MongoDB**
 
 ### 🌍 Gestión de Contenidos
 - **WordPress**
