@@ -1,4 +1,4 @@
-## Bienvenido a mi perfil :)
+## Bienvenido a mi perfil de GitHub!
 
 ## 🛠️ Habilidades Técnicas
 
