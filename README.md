@@ -5,18 +5,16 @@
 ### 🌐 Desarrollo Frontend
 - **HTML**
 - **CSS**, **Tailwind CSS**, **SASS**
-- **JavaScript**, **React**, **Next.js**, **Vite**
+- **JavaScript**, **React**
 
 ### 🔨 Desarrollo Back-end
 - **Node.js**
 - **Programación Orientada a Objetos (POO)**
 - **C#**, **.NET Framework**
-- *Próximamente*: **Express.js**
 
 ### 💾 Bases de Datos
 - **SQL Server**
 - **Firebase**
-- **MongoDB**
 
 ### 🌍 Gestión de Contenidos
 - **WordPress**
@@ -24,8 +22,9 @@
 - **Active Campaign**
 
 ### 🎨 Diseño
+- **CapCut**
 - **Figma**
-- **Photoshop**
+- **Premier**
 - **Illustrator**
 
 ### 🔄 Control de Versiones
@@ -35,15 +34,6 @@
 ### 🚀 Utilización de metodologías ágiles
 - **SCRUM**
 - **Trello**
-- **Notion**
-
----
-
-## 📌 Sobre Mí
-
-Desarrollador Web con experiencia en React.js, JavaScript, TypeScript, Node.js y MongoDB. Busco integrar el desarrollo con el diseño de interfaces para mejorar la experiencia del usuario, utilizando Illustrator y Figma.
-
----
 
 ## 📬 Contacto
 
