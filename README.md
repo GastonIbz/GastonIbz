@@ -16,12 +16,6 @@
 - **Webflow**
 - **Active Campaign**
 
-### 🎨 Diseño
-- **CapCut**
-- **Figma**
-- **Premier**
-- **Illustrator**
-
 ### 🔄 Control de Versiones
 - **Git**
 - **Github**
