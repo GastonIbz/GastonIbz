@@ -3,7 +3,7 @@
 ### 🌐 Desarrollo Frontend
 - **HTML**
 - **CSS**, **Tailwind CSS**, **SASS**
-- **JavaScript**, **React**
+- **JavaScript**, **React**, **Figma**, **Framer** 
 
 ### 🔨 Desarrollo Back-end
 - **Programación Orientada a Objetos (POO)**
@@ -15,9 +15,11 @@
 ### 🔄 
 - **Git**
 - **Github**
+- **Trello**
 
-### 🚀 Utilización de metodologías ágiles
+### 🚀 
 - **SCRUM**
+- **Trello**
 
 
 ## 📬 Contacto
