@@ -12,11 +12,7 @@
 ### 💾 Bases de Datos
 - **SQL Server**
 
-### 🌍 Gestión de Contenidos
-- **Webflow**
-- **Active Campaign**
-
-### 🔄 Control de Versiones
+### 🔄 
 - **Git**
 - **Github**
 
