@@ -3,7 +3,7 @@
 ### 🌐 Desarrollo Frontend
 - **HTML**
 - **CSS**, **Tailwind CSS**, **SASS**
-- **JavaScript**, **React**, **Figma**, **Framer** 
+- **JavaScript**, Typescript, **React**, **Figma**, **Framer** 
 
 ### 🔨 Desarrollo Back-end
 - **Programación Orientada a Objetos (POO)**
@@ -24,8 +24,8 @@
 
 ## 📬 Contacto
 
-- 📧 [Envíame un correo](mailto:gastonibanezcv@gmail.com)
-- 🔗 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/gastonibanezdev/)
+- 📧 [Email](mailto:gastonibanezcv@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gastonibanezdev/)
 
 ---
 
