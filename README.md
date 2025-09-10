@@ -9,18 +9,9 @@
 - **Programación Orientada a Objetos (POO)**
 - **C#**, **.NET Framework**
 
-### 💾 Bases de Datos
-- **SQL Server**
-- **Node**
 ### 🔄 
 - **Git**
 - **Github**
-- **Trello**
-
-### 🚀 
-- **SCRUM**
-- **Trello**
-
 
 ## 📬 Contacto
 
