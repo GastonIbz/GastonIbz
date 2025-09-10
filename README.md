@@ -15,7 +15,7 @@
 
 ## 📬 Contacto
 
-- 📧 [Email](mailto:gastonibanezcv@gmail.com)
+- 📧 [Email: gastonibanezcv@gmail.com](mailto:gastonibanezcv@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gastonibanezdev/)
 
 ---
