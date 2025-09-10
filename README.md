@@ -11,7 +11,7 @@
 
 ### 💾 Bases de Datos
 - **SQL Server**
-
+- **Node**
 ### 🔄 
 - **Git**
 - **Github**
