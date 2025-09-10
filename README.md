@@ -1,11 +1,11 @@
  ## Bienvenido a mi perfil de GitHub!
 
-### 🌐 Desarrollo Frontend
+### Desarrollo Frontend
 - **HTML**
 - **CSS**, **Tailwind CSS**, **SASS**
 - **JavaScript**, Typescript, **React**, **Figma**, **Framer** 
 
-### 🔨 Desarrollo Back-end
+### Desarrollo Back-end
 - **Programación Orientada a Objetos (POO)**
 - **C#**, **.NET Framework**
 
