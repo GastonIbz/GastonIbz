@@ -11,7 +11,7 @@
 
 ### 🔄 
 - **Git**
-- **Github**
+- **GitHub**
 
 ## 📬 Contacto
 
