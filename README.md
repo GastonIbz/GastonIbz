@@ -3,7 +3,7 @@
 ### Desarrollo Frontend
 - **HTML**
 - **CSS**, **Tailwind CSS**, **SASS**
-- **JavaScript**, Typescript, **React**, **Figma**, **Framer** 
+- **JavaScript**, Typescript, **Angular**, **Figma**, **Framer** 
 
 ### Desarrollo Back-end
 - **Programación Orientada a Objetos (POO)**
