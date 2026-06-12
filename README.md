@@ -6,7 +6,7 @@ Desarrollador Full Stack especializado en la creación de aplicaciones web, sist
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Full Stack - Diseño UX/UI
-- 🎨 Diseño y prototipado UX/UI con Figma y Framer
+- 🎨 Diseño y prototipado UX/UI con Figma / Framer / Stich
 - 🔄 Git y control de versiones
 - 🌱 Aprendiendo constantemente nuevas tecnologías y metodologías
 
