@@ -1,13 +1,12 @@
 # Hola, soy Gastón 👋
 
-Desarrollador Full Stack enfocado en la creación de aplicaciones web, sistemas de gestión y soluciones digitales para negocios.
-
+Desarrollador Full Stack especializado en la creación de aplicaciones web, sistemas de gestión y soluciones digitales para negocios.
 ---
 
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Full Stack - Diseño UX/UI
-- 🎨 Experiencia trabajando con diseños en Figma y Framer
+- 🎨 Diseño y prototipado UX/UI con Figma y Framer
 - 🔄 Git y control de versiones
 - 🌱 Aprendiendo constantemente nuevas tecnologías y metodologías
 
