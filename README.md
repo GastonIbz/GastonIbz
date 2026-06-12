@@ -43,9 +43,6 @@ Desarrollador Full Stack enfocado en la creación de aplicaciones web, sistemas 
 
 📧 **gastonibanezcv@gmail.com**
 
-💼 **LinkedIn**  
-[Tu perfil de LinkedIn]
-
 ---
 Siempre abierto a nuevos desafíos, colaboraciones y oportunidades para seguir creciendo como desarrollador.
 
