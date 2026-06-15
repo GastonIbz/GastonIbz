@@ -5,7 +5,7 @@
 
 - 💻 Desarrollador Full Stack - Diseño UX/UI
 - 🎨 Diseño y prototipado UX/UI con Figma / Framer / Stich
-- 🔄 Git y control de versiones
+- 🔄 Git Control 
 - 🌱 Aprendiendo constantemente nuevas tecnologías y metodologías
 
 ---
