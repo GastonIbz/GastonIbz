@@ -4,7 +4,6 @@
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Full Stack - Diseño UX/UI
-- 🎨 Diseño y prototipado UX/UI con Figma / Framer / Stich
 - 🔄 Git Control 
 - 🌱 Aprendiendo constantemente nuevas tecnologías y metodologías
 
@@ -21,6 +20,12 @@
 - CSS3
 - Tailwind CSS
 - Sass
+
+### Diseño y Prototipado
+
+- Figma
+- Framer
+- Stich
 
 ### Backend
 
