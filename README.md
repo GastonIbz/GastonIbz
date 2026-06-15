@@ -1,6 +1,4 @@
 # Hola, soy Gastón 👋
-
-Desarrollador Full Stack especializado en la creación de aplicaciones web, sistemas de gestión y soluciones digitales para negocios.
 ---
 
 ## 🚀 Sobre mí
