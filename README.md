@@ -5,8 +5,6 @@
 
 - 💻 Desarrollador Full Stack - Diseño UX/UI
 - 🔄 Git Control 
-- 🌱 Aprendiendo constantemente nuevas tecnologías y metodologías
-
 ---
 
 ## 🛠 Tecnologías
