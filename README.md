@@ -43,6 +43,8 @@
 
 📧 **gastonibanezcv@gmail.com**
 
+## Linkedin
+https://www.linkedin.com/in/gastonibanezdev
 ---
 
 <picture>
