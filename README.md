@@ -19,12 +19,6 @@
 - Tailwind CSS
 - Sass
 
-### Diseño y Prototipado
-
-- Figma
-- Framer
-- Stich
-
 ### Backend
 
 - C#
@@ -37,6 +31,12 @@
 - SQL Server
 - MySQL
 - SupaBase
+
+### Diseño y Prototipado
+
+- Figma
+- Framer
+- Stich
 
 
 ## 📫 Contacto
