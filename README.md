@@ -1,4 +1,4 @@
-# Hola, soy Gastónn 👋
+# Hola, soy Gastón 👋
 ---
 
 ## 🚀 Sobre mí
