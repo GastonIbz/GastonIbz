@@ -4,7 +4,7 @@
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Full Stack - Diseño UX/UI
-- 🔄 Git Control 
+- 🔄 Git Controlasda
 ---
 
 ## 🛠 Tecnologías
