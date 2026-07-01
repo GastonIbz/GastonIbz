@@ -11,9 +11,8 @@
 
 ### Frontend
 
-- Angular
-- TypeScript
 - JavaScript
+- TypeScript
 - HTML5
 - CSS3
 - Tailwind CSS
@@ -21,9 +20,7 @@
 
 ### Backend
 
-- C#
-- .NET
-- ASP.NET Core
+- Node
 - Programación Orientada a Objetos (POO)
 
 ### Bases de Datos
